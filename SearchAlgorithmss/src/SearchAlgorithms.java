@@ -1,7 +1,6 @@
 
 public class SearchAlgorithms {
 	
-	
 	public static void main(String[] args) {
 		int[] test1 = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 		int[] test2 = {0, 4, 5, 6, 12, 15, 17, 23, 29};
@@ -33,4 +32,3 @@ public class SearchAlgorithms {
 		
 	}
 }
-
