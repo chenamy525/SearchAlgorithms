@@ -32,7 +32,7 @@ public class SearchAlgorithms {
 		int L = 0;
 		int R = nums.length;
 		while (L<=R) {
-			mid = L+(R-L)/2;
+			int mid = L+(R-L)/2;
 		}
 		if (mid == query)
 			return query;
